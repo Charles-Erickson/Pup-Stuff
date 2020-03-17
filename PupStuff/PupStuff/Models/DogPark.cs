@@ -10,6 +10,7 @@ namespace PupStuff.Models
     {
         [Key]
         public int ParkId { get; set; }
+        public string ParkName { get; set; }
         public string Address { get; set; }
         public string City { get; set; }
         public string State { get; set; }
