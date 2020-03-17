@@ -18,4 +18,5 @@ namespace PupStuff.Models
         public string Lat { get; set; }
         public string Lng { get; set; }
     }
+
 }
